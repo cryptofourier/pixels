@@ -1,0 +1,5 @@
+sever/code/goods/controller/GoodsController.class
+sever/code/goods/sevice/GoodsService.class
+sever/code/goods/GoodsApplication.class
+sever/code/goods/repo/GoodsRepo.class
+sever/code/goods/model/Goods.class

@@ -1,0 +1,15 @@
+{
+  "orderDate": "2023-09-20T14:30:00",
+  "customerName": "John Doe",
+  "shippingAddress": "123 Main St, City",
+  "orderItems": [
+    {
+      "productId": 1,
+      "quantity": 3
+    },
+    {
+      "productId": 2,
+      "quantity": 2
+    }
+  ]
+}
